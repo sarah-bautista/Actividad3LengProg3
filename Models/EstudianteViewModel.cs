@@ -42,7 +42,7 @@ namespace Actividad3LengProg3.Models
         [Range(0, 100, ErrorMessage = "El porcentaje debe ser entre 0 y 100.")]
         public int? PorcentajeBeca { get; set; }
 
-        [Range(typeof(bool), "true", "true", ErrorMessage = "Debes aceptar los términos y condiciones.")]
+       
         public bool AceptaTerminos { get; set; }
     }
 }

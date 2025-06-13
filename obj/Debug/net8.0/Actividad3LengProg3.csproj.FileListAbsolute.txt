@@ -28,3 +28,4 @@ C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengP
 C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.pdb
 C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.genruntimeconfig.cache
 C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\ref\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.sourcelink.json
